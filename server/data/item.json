@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan 1 Retro High OG Silver Toe",
+    "brandId": 3,
+    "price": 2640000,
+    "description": "Recalling the 2018 Air Jordan 1 'Gold Toe,' the Air Jordan 1 Retro High OG 'Silver Toe' instead looks to a different precious metal. Rather than patent leather, the shoe's upper is built with standard leather, finished in white and black and highlighted by metallic silver on the collar,",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/186210/1.jpg",
+    "size": 43,
+    "stock": null,
+    "createdAt": "2023-05-09T15:07:23.193Z",
+    "updatedAt": "2023-05-09T15:07:23.193Z"
+  },
+  {
+    "id": 2,
+    "name": "Yeezy Boost 350 V2 Bred",
+    "brandId": 1,
+    "price": 5490000,
+    "description": "The Yeezy Boost 350 V2 'Bred' brings a classic colorway to its minimalist construction. The shoe's upper is built with Primeknit, finished in black and highlighted by the SPLY-350 branding on the side wall. More red marks the heel pull-loop, while rope laces secure the fit. Underfoot, a full-length Boost midsole wrapped in a black rubber cage provides cushioning.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/800389/1.jpg",
+    "size": 43,
+    "stock": 12,
+    "createdAt": "2023-05-09T17:30:09.331Z",
+    "updatedAt": "2023-05-09T17:30:09.331Z"
+  },
+  {
+    "id": 3,
+    "name": "Zoom Kobe 4 Protro Mambacita",
+    "brandId": 3,
+    "price": 4725000,
+    "description": "The Nike Zoom Kobe 4 Protro 'Mambacita,' also known as 'Gigi,' pays tribute to Kobe Bryant's fourth signature model in a special colorway dedicated to the memory of his daughter Gigi. The sneaker features the signature colors of Team Mamba, Gigi's AAU squad, with an upper in white synthetic leather complemented by a black Swoosh, a 'Gigi' wordmark stitched on the back tab and a black-on-white grid pattern on the heel overlay.",
+    "imageUrl": "https://cdn.flightclub.com/750/TEMPLATE/350219/1.jpg",
+    "size": 43,
+    "stock": 7,
+    "createdAt": "2023-05-09T17:30:09.331Z",
+    "updatedAt": "2023-05-09T17:30:09.331Z"
+  },
+  {
+    "id": 4,
+    "name": "Air Jordan 1 Retro High OG White Cement",
+    "brandId": 3,
+    "price": 1770000,
+    "description": "Retro inspires retro with the Air Jordan 1 Retro High OG 'White Cement,' featuring the iconic elephant print from by the Air Jordan 3. The high-top sneaker displays a sleek grey leather overlay against a pristine white leather base with black leather accents on the collar and Swoosh. The tongue is marked with a woven Nike Air tag, and the lateral collar is stamped with the iconic Wings logo.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/349704/1.jpg",
+    "size": 43,
+    "stock": 11,
+    "createdAt": "2023-05-10T02:51:00.012Z",
+    "updatedAt": "2023-05-10T02:51:00.012Z"
+  },
+  {
+    "id": 5,
+    "name": "Suede Classic 21 Royal Sapphire",
+    "brandId": 2,
+    "price": 1935000,
+    "description": "The Suede hit the scene in 1968 and has been changing the game ever since. It’s been worn by icons of every generation, and it’s stayed classic through it all. Instantly recognizable and constantly reinvented, Suede’s legacy continues to grow and be legitimized by the authentic and expressive individuals that embrace the iconic shoe. Be apart of the history of Suede.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/352165/1.jpg",
+    "size": 43,
+    "stock": 45,
+    "createdAt": "2023-05-10T02:52:51.122Z",
+    "updatedAt": "2023-05-10T02:52:51.122Z"
+  },
+  {
+    "id": 6,
+    "name": "Air Jordan 1 Retro High OG First Class Flight",
+    "brandId": 3,
+    "price": 3195000,
+    "description": "The Air Jordan 1 Retro High OG 'First Class Flight' makes use of a perforated white leather upper with yellow accents on the collar, medial-side Swoosh and rubber outsole. Unique details include Michael Jordan’s signature on the lateral collar and black barcodes on the heel and medial-side ankle flap, the latter referencing Jordan Brand's shipping department while the latter contains MJ's career statistics.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/140241/1.jpg",
+    "size": 43,
+    "stock": 9,
+    "createdAt": "2023-05-10T02:54:58.340Z",
+    "updatedAt": "2023-05-10T02:54:58.340Z"
+  },
+  {
+    "id": 7,
+    "name": "Yeezy Boost 350 V2 Zebra",
+    "brandId": 1,
+    "price": 5175000,
+    "description": "The Yeezy Boost 350 V2 'Zebra' released on February 25, 2017, combining an upper white / core black Primeknit with a red SPLY 350 branding and a full-length translucent midsole boost. On November 16, 2018 and April 9th, 2022, restocks of the ' Zebra ' arrived, with more pairs hitting the marketplace and building on Kanye's commitment to make Yeezy more available to anyone who wished to acquire them",
+    "imageUrl": "https://cdn.flightclub.com/750/TEMPLATE/800502/1.jpg",
+    "size": 43,
+    "stock": 11,
+    "createdAt": "2023-05-10T02:56:27.441Z",
+    "updatedAt": "2023-05-10T02:56:27.441Z"
+  },
+  {
+    "id": 8,
+    "name": "Yeezy Boost 350 V2 Beluga 2.0",
+    "brandId": 1,
+    "price": 8505000,
+    "description": "The Yeezy Boost 350 V2 ' Beluga 2.0 ' released on November 25, 2017 with its name coming from the colorway on the first Yeezy Boost 350 V2. Instead of the vivid orange color found on the initial ' Beluga ' sneaker, the shoe displays a silent gray color on the side. The Yeezy Boost 350 V2 ' Beluga 2.0 ' also contains an orange stitching heel tab and a inverse logo of ' SPLY-350 ' on the laterals.",
+    "imageUrl": "https://cdn.flightclub.com/750/TEMPLATE/802389/1.jpg",
+    "size": 43,
+    "stock": 5,
+    "createdAt": "2023-05-10T02:57:57.939Z",
+    "updatedAt": "2023-05-10T02:57:57.939Z"
+  },
+  {
+    "id": 9,
+    "name": "Dunk Low Black White",
+    "brandId": 3,
+    "price": 1680000,
+    "description": "The Dunk Low 'Black White' also known as 'Panda' brings a classic two-tone look to its classic basketball construction. The shoe's low-top build emerges in leather, with a white base contrasted by black overlays, with further black on the Swoosh branding. Perforations on the toe box provide breathability, while underfoot, the two-tone look is matched by the tooling, which incorporates a concentric rubber outsole for traction.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/253215/1.jpg",
+    "size": 43,
+    "stock": 13,
+    "createdAt": "2023-05-10T03:35:46.945Z",
+    "updatedAt": "2023-05-10T03:35:46.945Z"
+  },
+  {
+    "id": 10,
+    "name": "Dunk Low SB Sandy Bodecker",
+    "brandId": 3,
+    "price": 2550000,
+    "description": "Honoring the legend behind Nike Skateboarding is the Nike Dunk Low SB ‘Sandy Bodecker,’ in a design inspired by and recreating the color scheme and build of the original and elusive eBay Dunk from 2003. The upper features patent-leather overlays in eBay’s ubiquitous colors intersected by clear cut-out panels that symbolize the original pair, which was destroyed at the ASR trade show in 2003. The interior of the shoe delivers photographs by James Arizumi which celebrate Sandy Bodecker’s legacy.",
+    "imageUrl": "https://cdn.flightclub.com/1800/TEMPLATE/337734/1.jpg",
+    "size": 43,
+    "stock": 22,
+    "createdAt": "2023-05-10T03:39:03.014Z",
+    "updatedAt": "2023-05-10T03:39:03.014Z"
+  }
+]
